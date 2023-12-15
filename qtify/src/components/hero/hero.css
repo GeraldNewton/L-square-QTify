@@ -1,0 +1,32 @@
+.hero-background{
+    height:270px;
+    width:100vw;
+    background-color: var(--secondary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-container{
+    background-color: var(--secondary);
+    /* background-color: */
+    width: 799px;
+    height: 212px;
+    display: flex;
+}
+.hero-text{
+    text-align: center;
+    font-size: 30px;
+    font-family: var(--font);
+    height: 100%;
+    width:75%;
+    background-color: var(--secondary);
+    padding-top:71px;
+    box-sizing: border-box;
+    color: var(--tertiary);
+    font-weight: 800;
+}
+.hero-image{
+    height: 100%;
+    width: 25%;
+    
+}

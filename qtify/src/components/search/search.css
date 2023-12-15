@@ -1,0 +1,23 @@
+.search-search{
+    padding: 14px 20px;
+    border-radius: 8px 0px 0px 8px;
+    border: 1px solid var(--secondary);
+    width: 502px;
+    height: 100%;
+    /* border:var(--secondary); */
+}
+.search-wrapper{
+    display:flex;
+    align-items: center;
+    height: 48px;
+}
+.search-searchbtn{
+    border-radius: 0px 8px 8px 0px;
+    padding: 14px 20px;
+    border: 1px solid var(--secondary);
+    border-left: none;
+    cursor: pointer;
+    width: 67px;
+    height: 48px;
+    background-color: var(--tertiary);
+ }

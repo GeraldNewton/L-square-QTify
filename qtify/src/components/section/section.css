@@ -1,0 +1,20 @@
+.section-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.section-toggleText{
+    cursor:pointer;
+    color:var(--primary)
+}
+.section-cardsWrapper{
+    margin-top: 18px;
+}
+.section-wrapper{
+    display:flex;
+    gap:40px;
+    flex-wrap: wrap;
+}
+.section-filterwrapper{
+    margin-top: 15px;
+}

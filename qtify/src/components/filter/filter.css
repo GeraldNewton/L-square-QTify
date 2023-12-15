@@ -1,0 +1,5 @@
+.filter-tab{
+    color:var(--tertiary) !important;
+    font-weight:bold;
+    text-transform: none;
+}
